@@ -9,6 +9,10 @@ A React-based web application for browsing and filtering a digital library archi
 - **View** details and thumbnails for each archive item
 - Responsive, modern UI
 
+## Live Demo
+
+[View Demo](https://eliallen42.github.io/library-archive/)
+
 ## Project Structure
 
 - `src/`
