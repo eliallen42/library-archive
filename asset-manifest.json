@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/eliallen42/library-archive/static/css/main.bb550dd8.css",
-    "main.js": "/eliallen42/library-archive/static/js/main.3cfeb5ab.js",
-    "index.html": "/eliallen42/library-archive/index.html",
-    "main.bb550dd8.css.map": "/eliallen42/library-archive/static/css/main.bb550dd8.css.map",
-    "main.3cfeb5ab.js.map": "/eliallen42/library-archive/static/js/main.3cfeb5ab.js.map"
+    "main.css": "/library-archive/static/css/main.bb550dd8.css",
+    "main.js": "/library-archive/static/js/main.3cfeb5ab.js",
+    "index.html": "/library-archive/index.html",
+    "main.bb550dd8.css.map": "/library-archive/static/css/main.bb550dd8.css.map",
+    "main.3cfeb5ab.js.map": "/library-archive/static/js/main.3cfeb5ab.js.map"
   },
   "entrypoints": [
     "static/css/main.bb550dd8.css",
