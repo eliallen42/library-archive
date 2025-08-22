@@ -13,6 +13,15 @@ A React-based web application for browsing and filtering a digital library archi
 
 [View Demo](https://eliallen42.github.io/library-archive/)
 
+## Purpose
+
+This project was built as part of my portfolio to showcase:
+
+- Component composition in React
+- State management and controlled inputs
+- Dynamic filtering and rendering
+- Clean, responsive UI design
+
 ## Project Structure
 
 - `src/`
